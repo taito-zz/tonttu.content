@@ -15,7 +15,7 @@ setup(
     keywords='',
     author='ABITA',
     author_email='taito.horiuchi@abita.fi',
-    url='https://abita.fi/',
+    url='https://github.com/taito/tonttu.content',
     license='Non-free',
     packages=find_packages('src', exclude=['ez_setup']),
     package_dir={'': 'src'},
